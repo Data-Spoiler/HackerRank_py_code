@@ -1,0 +1,3 @@
+-- # Problem: Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table.
+
+SELECT COUNT(ID) - COUNT(DISTINCT(CITY)) FROM STATION;
