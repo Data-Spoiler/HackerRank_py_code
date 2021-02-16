@@ -6,7 +6,6 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 Updated daily :) If it was helpful please press a star.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/arunrathi9/HackerRank-Coding-Practice.svg)](https://github.com/arunrathi9/HackerRank-Coding-Practice) 
-[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/arunrathi9/HackerRank-Coding-Practice.svg)](https://github.com/arunrathi9/HackerRank-Coding-Practice)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/arunrathi9/HackerRank-Coding-Practice.svg)](https://github.com/arunrathi9/HackerRank-Coding-Practice) 
 [![GitHub stars](https://img.shields.io/github/stars/arunrathi9/HackerRank-Coding-Practice.svg)](https://github.com/arunrathi9/HackerRank-Coding-Practice)
 
